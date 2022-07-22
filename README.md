@@ -6,6 +6,9 @@ Here I summarized some datasets publicly available for time series anomaly detec
 
 ODDS webpage is [here](http://odds.cs.stonybrook.edu/). Note that the datasets contains not only time series, but also other data types (videos, texts, and graphs).
 
+## Kaggle Credit Card Fraud Detection DataSet (CCFD)
+
+Mainpage is [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud). The dataset contains transactions made by credit cards in September 2013 by European cardholders, yet due to privacy and security reasons, what we see is the result of a PCA transformation.
 
 ## Yahoo Time Series Anomaly Detection Benchmark
 
