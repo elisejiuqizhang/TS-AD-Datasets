@@ -38,24 +38,23 @@ The maintainers of the archive also recommend reading the following papers ["The
 
 Dataset webpage is [here](https://nsidc.org/data/smap/smap-data.html). Check the dataset description [here](https://smap.jpl.nasa.gov/data/?_ga=2.138417011.1712228197.1658525020-1435945832.1658525020).
 
-* Note that the authors of ["Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network"](https://dl.acm.org/doi/10.1145/3292500.3330672) have also provided a download link in their [repo](https://github.com/NetManAIOps/OmniAnomaly) - see their "Get data" section:
+* Note that the authors of ["Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network"](https://dl.acm.org/doi/10.1145/3292500.3330672) have also provided a download link for SMAP and MSL in their [repo](https://github.com/NetManAIOps/OmniAnomaly) - see their "Get data" section or check the following commands:
 
-        You can get the public datasets (SMAP and MSL) using:
-        ```shell
-        wget https://s3-us-west-2.amazonaws.com/telemanom/data.zip && unzip data.zip && rm data.zip
+You can get the public datasets (SMAP and MSL) using:
+```shell
+wget https://s3-us-west-2.amazonaws.com/telemanom/data.zip && unzip data.zip && rm data.zip
 
-        cd data && wget https://raw.githubusercontent.com/khundman/telemanom/master/labeled_anomalies.csv
-        ```
+cd data && wget https://raw.githubusercontent.com/khundman/telemanom/master/labeled_anomalies.csv
+```
 
 
 ## 8. Mars Science Laboratory (MSL) Curiosity Rover Datasets
 
-* Note that the authors of ["Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network"](https://dl.acm.org/doi/10.1145/3292500.3330672) have also provided a download link in their [repo](https://github.com/NetManAIOps/OmniAnomaly) - see their "Get data" section:
+* Note that the authors of ["Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network"](https://dl.acm.org/doi/10.1145/3292500.3330672) have also provided a download link for SMAP and MSL in their [repo](https://github.com/NetManAIOps/OmniAnomaly) - see their "Get data" section or check the following commands:
 
-        You can get the public datasets (SMAP and MSL) using:
-        ```shell
-        wget https://s3-us-west-2.amazonaws.com/telemanom/data.zip && unzip data.zip && rm data.zip
+```shell
+wget https://s3-us-west-2.amazonaws.com/telemanom/data.zip && unzip data.zip && rm data.zip
 
-        cd data && wget https://raw.githubusercontent.com/khundman/telemanom/master/labeled_anomalies.csv
-        ```
+cd data && wget https://raw.githubusercontent.com/khundman/telemanom/master/labeled_anomalies.csv
+```
 
