@@ -53,7 +53,7 @@ cd data && wget https://raw.githubusercontent.com/khundman/telemanom/master/labe
 
 ## 8. Mars Science Laboratory (MSL) Curiosity Rover Dataset
 
-Dataset webpage is [here](https://msl.cs.msu.edu/datasets/).
+Dataset webpage is [here](https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/Mars/Mars.html).
 
 * The KDD 2018 paper ["Detecting Anomalies in Multivariate Time Series through Stochastic Recurrent Neural Network"](https://arxiv.org/abs/1802.04431) by NASA is the first paper to use this dataset. They provided download link to the dataset in their [repo](https://github.com/khundman/telemanom).
 
