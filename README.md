@@ -4,7 +4,7 @@ Here I summarized some datasets publicly available for time series anomaly detec
 
 ## Outlier Detection DataSets (ODDS)
 
-ODDS webpage is [here](http://odds.cs.stonybrook.edu/).
+ODDS webpage is [here](http://odds.cs.stonybrook.edu/). Note that the datasets contains not only time series, but also other data types (videos, texts, and graphs).
 
 
 ## Yahoo Time Series Anomaly Detection Benchmark
