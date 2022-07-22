@@ -24,4 +24,15 @@ Multivariate time series datasets collected by “iTrust, Centre for Research in
 
 Also collected by “iTrust, Centre for Research in Cyber Security, Singapore University of Technology and Design”. See website [here](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/#wadi) to request access to the dataset (it can actually be requested at the same time as when requesting for SWaT) and check usage requirements.
 
-## 5. 
+## 5. Server Machine Dataset (SMD)
+
+Dataset released [here](https://github.com/NetManAIOps/OmniAnomaly/tree/master/ServerMachineDataset) as a part of the authors' repository of their KDD 2019 paper ["Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network"](https://dl.acm.org/doi/10.1145/3292500.3330672).
+
+## 6. UCR Time Series Anomaly Archive
+
+Contains over 250 datasets. The link to download the dataset is [here](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/). 
+
+The maintainers of the archive also recommend reading the following papers ["The UEA multivariate time series classification archive, 2018" ](https://arxiv.org/abs/1811.00075) and ["Current Time Series Anomaly Detection Benchmarks are Flawed and are Creating the Illusion of Progress"](https://arxiv.org/abs/2009.13807) before using the dataset.
+
+## 7. Soil Moisture Active Passive (SMAP) Dataset 
+
