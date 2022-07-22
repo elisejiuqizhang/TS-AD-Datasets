@@ -38,6 +38,8 @@ The maintainers of the archive also recommend reading the following papers ["The
 
 Dataset webpage is [here](https://nsidc.org/data/smap/smap-data.html). Check the dataset description [here](https://smap.jpl.nasa.gov/data/?_ga=2.138417011.1712228197.1658525020-1435945832.1658525020).
 
+* The authors of ["Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network"](https://dl.acm.org/doi/10.1145/3292500.3330672) have also provided a link for download in their [repo](https://github.com/NetManAIOps/OmniAnomaly) - see the "Get data" section.
 
-## 8. Mars Science Laboratory (MSL) Rover Datasets
+
+## 8. Mars Science Laboratory (MSL) Curiosity Rover Datasets
 
