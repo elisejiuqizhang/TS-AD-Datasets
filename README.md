@@ -34,5 +34,10 @@ Contains over 250 datasets. The link to download the dataset is [here](https://w
 
 The maintainers of the archive also recommend reading the following papers ["The UEA multivariate time series classification archive, 2018" ](https://arxiv.org/abs/1811.00075) and ["Current Time Series Anomaly Detection Benchmarks are Flawed and are Creating the Illusion of Progress"](https://arxiv.org/abs/2009.13807) before using the dataset.
 
-## 7. Soil Moisture Active Passive (SMAP) Dataset 
+## 7. Soil Moisture Active Passive (SMAP) Satellite Dataset 
+
+Dataset webpage is [here](https://nsidc.org/data/smap/smap-data.html). Check the dataset description [here](https://smap.jpl.nasa.gov/data/?_ga=2.138417011.1712228197.1658525020-1435945832.1658525020).
+
+
+## 8. Mars Science Laboratory (MSL) Rover Datasets
 
