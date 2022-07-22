@@ -38,9 +38,12 @@ The maintainers of the archive also recommend reading the following papers ["The
 
 Dataset webpage is [here](https://nsidc.org/data/smap/smap-data.html). Check the dataset description [here](https://smap.jpl.nasa.gov/data/?_ga=2.138417011.1712228197.1658525020-1435945832.1658525020).
 
-* Note that the authors of ["Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network"](https://dl.acm.org/doi/10.1145/3292500.3330672) have also provided a download link for SMAP and MSL in their [repo](https://github.com/NetManAIOps/OmniAnomaly) - see their "Get data" section or check the following commands:
+* The KDD 2018 paper ["Detecting Anomalies in Multivariate Time Series through Stochastic Recurrent Neural Network"](https://arxiv.org/abs/1802.04431) by NASA is the first paper to use this dataset. They provided download link to the dataset in their [repo](https://github.com/khundman/telemanom).
 
-You can get the public datasets (SMAP and MSL) using:
+* Note that the authors of ["Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network"](https://dl.acm.org/doi/10.1145/3292500.3330672) have also used the same versions of SMAP and MSL in their [repo](https://github.com/NetManAIOps/OmniAnomaly)
+
+* The dataset version used by the above two papers can be downloaded using the following commands:
+
 ```shell
 wget https://s3-us-west-2.amazonaws.com/telemanom/data.zip && unzip data.zip && rm data.zip
 
@@ -48,9 +51,15 @@ cd data && wget https://raw.githubusercontent.com/khundman/telemanom/master/labe
 ```
 
 
-## 8. Mars Science Laboratory (MSL) Curiosity Rover Datasets
+## 8. Mars Science Laboratory (MSL) Curiosity Rover Dataset
 
-* Note that the authors of ["Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network"](https://dl.acm.org/doi/10.1145/3292500.3330672) have also provided a download link for SMAP and MSL in their [repo](https://github.com/NetManAIOps/OmniAnomaly) - see their "Get data" section or check the following commands:
+Dataset webpage is [here](https://msl.cs.msu.edu/datasets/).
+
+* The KDD 2018 paper ["Detecting Anomalies in Multivariate Time Series through Stochastic Recurrent Neural Network"](https://arxiv.org/abs/1802.04431) by NASA is the first paper to use this dataset. They provided download link to the dataset in their [repo](https://github.com/khundman/telemanom).
+
+* Note that the authors of ["Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network"](https://dl.acm.org/doi/10.1145/3292500.3330672) have also used the same versions of SMAP and MSL in their [repo](https://github.com/NetManAIOps/OmniAnomaly)
+
+* The dataset version used by the above two papers can be downloaded using the following commands:
 
 ```shell
 wget https://s3-us-west-2.amazonaws.com/telemanom/data.zip && unzip data.zip && rm data.zip
