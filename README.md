@@ -80,6 +80,10 @@ cd data && wget https://raw.githubusercontent.com/khundman/telemanom/master/labe
 ### 11. Skoltech Anomaly Benchmark (SKAB)
 Dataset repo is [here](https://github.com/waico/SKAB).
 
+### 12. Artificial Intelligence for IT Operations (AIOps) Challenge Datasets
+Datasets maintained by the [Netman Lab](https://netman.aiops.org/) at Tsinghua University, their group's GitHub profile can be found [here](https://github.com/NetManAIOps).
+The KPI dataset from their 2018 challenge is [here](https://github.com/NetManAIOps/KPI-Anomaly-Detection), and the 2020 data is [here](https://github.com/NetManAIOps/AIOps-Challenge-2020-Data).
+
 
 ## Time Series Classification Datasets That Could Potentially Be Used for Anomaly Detection
 
