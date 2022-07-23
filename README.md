@@ -77,6 +77,10 @@ wget https://s3-us-west-2.amazonaws.com/telemanom/data.zip && unzip data.zip && 
 cd data && wget https://raw.githubusercontent.com/khundman/telemanom/master/labeled_anomalies.csv
 ```
 
+### 11. Skoltech Anomaly Benchmark (SKAB)
+Dataset repo is [here](https://github.com/waico/SKAB).
+
+
 ## Time Series Classification Datasets That Could Potentially Be Used for Anomaly Detection
 
 Another common way I see people do is to use time series classification datasets for anomaly detection - you can preprocess the datasets by select one or a few minority classses and label them as anomalies.
