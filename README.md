@@ -88,3 +88,6 @@ Another common way I see people do is to use time series classification datasets
 ### 1. UCI Machine Learning Repository Dataset - Time Series Classification
 
 Look for time series datasets for classification tasks on the UCI repo webpage here [here](https://archive.ics.uci.edu/ml/datasets.php?format=&task=cla&att=&area=&numAtt=&numIns=&type=ts&sort=nameUp&view=table).
+
+### 2. UEA & UCR Time Series Classification Repository
+Dataset mainpage is [here](http://www.timeseriesclassification.com/dataset.php).
