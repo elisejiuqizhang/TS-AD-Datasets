@@ -85,6 +85,9 @@ Datasets maintained by the [Netman Lab](https://netman.aiops.org/) at Tsinghua U
 
 The KPI dataset from their 2018 challenge is [here](https://github.com/NetManAIOps/KPI-Anomaly-Detection), and the 2020 data is [here](https://github.com/NetManAIOps/AIOps-Challenge-2020-Data).
 
+### 13. Pooled Server Metric (PSM) Dataset
+This dataset was collected by eBay, and was released [here](https://github.com/eBay/RANSynCoders/tree/main/data) in their repository of an anomaly detection model they proposed named [RANSynCoders](https://github.com/eBay/RANSynCoders).
+
 
 ## Time Series Classification Datasets That Could Potentially Be Used for Anomaly Detection
 
