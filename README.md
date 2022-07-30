@@ -115,6 +115,10 @@ Dataset main page is [here](https://ieee-dataport.org/documents/ics-dataset-smar
 
 Download the dataset [here](https://www.spotseven.de/gecco/gecco-challenge/gecco-challenge-2018/).
 
+### 17. Application Server Dataset (ASD)
+
+The dataset can be found [here](https://github.com/zhhlee/InterFusion/tree/main/data) which is within the [code repository](https://github.com/zhhlee/InterFusion) of a KDD 2021 paper.
+
 ## Time Series Classification Datasets That Could Potentially Be Used for Anomaly Detection
 
 Another common way I see people do is to use time series classification datasets for anomaly detection - you can preprocess the datasets by select one or a few minority classses and label them as anomalies.
