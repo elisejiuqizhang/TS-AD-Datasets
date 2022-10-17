@@ -119,6 +119,13 @@ Download the dataset [here](https://www.spotseven.de/gecco/gecco-challenge/gecco
 
 The dataset can be found [here](https://github.com/zhhlee/InterFusion/tree/main/data) which is within the [code repository](https://github.com/zhhlee/InterFusion) of a KDD 2021 paper.
 
+### 18. ADFA Intrusion Detection Datasets (ADFA IDS)
+These datasets can be found [here](https://research.unsw.edu.au/projects/adfa-ids-datasets), including
+
+#### The ADFA Linux Dataset (ADFA-LD)
+#### The ADFA Windows Dataset (ADFA-WD)
+#### The ADFA Windows Dataset: Stealth Attacks Addendum (ADFA-WD:SAA)
+
 ## Time Series Classification Datasets That Could Potentially Be Used for Anomaly Detection
 
 Another common way I see people do is to use time series classification datasets for anomaly detection - you can preprocess the datasets by select one or a few minority classses and label them as anomalies.
