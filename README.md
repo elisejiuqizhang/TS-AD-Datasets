@@ -122,9 +122,9 @@ The dataset can be found [here](https://github.com/zhhlee/InterFusion/tree/main/
 ### 18. ADFA Intrusion Detection Datasets (ADFA IDS)
 These datasets can be found [here](https://research.unsw.edu.au/projects/adfa-ids-datasets), including
 
-#### The ADFA Linux Dataset (ADFA-LD)
-#### The ADFA Windows Dataset (ADFA-WD)
-#### The ADFA Windows Dataset: Stealth Attacks Addendum (ADFA-WD:SAA)
+#### [The ADFA Linux Dataset (ADFA-LD)](https://cloudstor.aarnet.edu.au/plus/s/Gpr0FLAGGZZ1TL8)
+#### [The ADFA Windows Dataset (ADFA-WD)](https://cloudstor.aarnet.edu.au/plus/s/UC733k398npjHA8)
+#### [The ADFA Windows Dataset: Stealth Attacks Addendum (ADFA-WD:SAA)](https://cloudstor.aarnet.edu.au/plus/s/UC733k398npjHA8)
 
 ## Time Series Classification Datasets That Could Potentially Be Used for Anomaly Detection
 
