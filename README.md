@@ -48,7 +48,7 @@ The maintainers of the archive also recommend reading the following papers ["The
 
 Dataset webpage is [here](https://nsidc.org/data/smap/smap-data.html). Check the dataset description [here](https://smap.jpl.nasa.gov/data/?_ga=2.138417011.1712228197.1658525020-1435945832.1658525020).
 
-* The KDD 2018 paper ["Detecting Anomalies in Multivariate Time Series through Stochastic Recurrent Neural Network"](https://arxiv.org/abs/1802.04431) by NASA is the first paper to use this dataset. They provided download link to the dataset in their [repo](https://github.com/khundman/telemanom).
+* The KDD 2018 paper ["Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding"](https://arxiv.org/abs/1802.04431) by NASA is the first paper to use this dataset. They provided download link to the dataset in their [repo](https://github.com/khundman/telemanom).
 
 * Note that the authors of ["Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network"](https://dl.acm.org/doi/10.1145/3292500.3330672) have also used the same versions of SMAP and MSL in their [repo](https://github.com/NetManAIOps/OmniAnomaly)
 
@@ -65,7 +65,7 @@ cd data && wget https://raw.githubusercontent.com/khundman/telemanom/master/labe
 
 Dataset webpage is [here](https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/Mars/Mars.html).
 
-* The KDD 2018 paper ["Detecting Anomalies in Multivariate Time Series through Stochastic Recurrent Neural Network"](https://arxiv.org/abs/1802.04431) by NASA is the first paper to use this dataset. They provided download link to the dataset in their [repo](https://github.com/khundman/telemanom).
+* The KDD 2018 paper ["Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding"](https://arxiv.org/abs/1802.04431) by NASA is the first paper to use this dataset. They provided download link to the dataset in their [repo](https://github.com/khundman/telemanom).
 
 * Note that the authors of ["Robust Anomaly Detection for Multivariate Time Series through Stochastic Recurrent Neural Network"](https://dl.acm.org/doi/10.1145/3292500.3330672) have also used the same versions of SMAP and MSL in their [repo](https://github.com/NetManAIOps/OmniAnomaly)
 
